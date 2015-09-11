@@ -1,4 +1,4 @@
-# COMP1406 - Memorial University
+# COMP1406
 
 In this repository, I've included any projects, scripts or assignments I've done throughout the term. 
 
