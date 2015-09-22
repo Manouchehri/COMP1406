@@ -8,5 +8,5 @@
 	path = tutorial-2
 	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial2.git
 [submodule "assignment-1"]
-	path = assignment-1
+	path = ping-pong
 	url = https://github.com/Manouchehri/COMP1406-Assignment1.git
