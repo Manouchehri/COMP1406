@@ -1,3 +1,9 @@
 [submodule "website"]
 	path = website
 	url = https://gitlab.com/Manouchehri/COMP1406-website.git
+[submodule "tutorial1"]
+	path = tutorial1
+	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial1.git
+[submodule "tutorial2"]
+	path = tutorial2
+	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial2.git
