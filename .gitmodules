@@ -10,3 +10,18 @@
 [submodule "assignment-1"]
 	path = assignment-1
 	url = https://github.com/Manouchehri/COMP1406-Assignment1.git
+[submodule "tutorial-3"]
+	path = tutorial-3
+	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial3.git
+[submodule "tutorial-4"]
+	path = tutorial-4
+	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial4.git
+[submodule "tutorial-5"]
+	path = tutorial-5
+	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial5.git
+[submodule "assignment-2"]
+	path = assignment-2
+	url = https://github.com/Manouchehri/COMP1406-Assignment2.git
+[submodule "assignment-3"]
+	path = assignment-3
+	url = https://github.com/Manouchehri/COMP1406-Assignment3.git
