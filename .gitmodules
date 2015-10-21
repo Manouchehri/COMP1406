@@ -21,7 +21,7 @@
 	url = https://gitlab.com/Manouchehri/COMP1406-Tutorial5.git
 [submodule "assignment-2"]
 	path = assignment-2
-	url = https://github.com/Manouchehri/COMP1406-Assignment2.git
+	url = https://gitlab.com/Manouchehri/COMP1406-Assignment2.git
 [submodule "assignment-3"]
 	path = assignment-3
-	url = https://github.com/Manouchehri/COMP1406-Assignment3.git
+	url = https://gitlab.com/Manouchehri/COMP1406-Assignment3.git
